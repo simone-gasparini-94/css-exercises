@@ -1,18 +1,18 @@
-.pink-background {
+.odd {
     background-color: rgb(255, 183, 202);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#blue-text {
+#second {
     color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
-.pink-background#big {
+.odd#third {
     font-size: 24px;
 }
 
-#green-background {
+#fourth {
     background-color: rgb(183, 255, 183);
     font-size: 24px;
     font-weight: bold;
