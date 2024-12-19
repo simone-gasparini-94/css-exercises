@@ -1,3 +1,7 @@
 .pink-background {
     background-color: rgb(255, 133, 166);
 }
+
+#blue-text {
+    color: rgb(0, 0, 255);
+}
