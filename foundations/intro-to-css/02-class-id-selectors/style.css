@@ -1,7 +1,11 @@
 .pink-background {
-    background-color: rgb(255, 133, 166);
+    background-color: rgb(255, 183, 202);
 }
 
 #blue-text {
     color: rgb(0, 0, 255);
+}
+
+.pink-background#big {
+    font-size: 24px;
 }
