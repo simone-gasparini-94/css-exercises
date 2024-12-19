@@ -11,3 +11,9 @@
 .pink-background#big {
     font-size: 24px;
 }
+
+#green-background {
+    background-color: rgb(183, 255, 183);
+    font-size: 24px;
+    font-weight: bold;
+}
