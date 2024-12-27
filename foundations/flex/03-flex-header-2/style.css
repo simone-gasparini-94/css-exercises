@@ -12,7 +12,21 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
 }
+
+.left-wrapper,
+.right-wrapper,
+.links {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
 
 .profile-image {
   background: rebeccapurple;
